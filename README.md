@@ -1,5 +1,5 @@
 # Ex04 Simple Calculator - React Project
-## Date: 24 / 03 / 2026
+## Date: 26 / 03 / 2026
 
 ```
 Name : Hariharan S
